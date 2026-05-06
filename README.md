@@ -35,7 +35,7 @@ After selecting an option, the app displays feedback statistics.
 **My role:** developed the application logic using React and TypeScript.  
 **Technologies:** React, TypeScript
 
-[Live Demo](https://02-react-cafe-lac-tau.vercel.app/) | [Repository]((https://github.com/AndriiT888/04-react-query))
+[Live Demo](https://02-react-cafe-lac-tau.vercel.app/) | [Repository](https://github.com/AndriiT888/04-react-query)
 
 ### 🔹 Project 2: Movie Search App
 
